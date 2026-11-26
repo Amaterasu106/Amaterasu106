@@ -38,3 +38,6 @@
 Frontend   ──▶  React · Vite · Tailwind CSS · Framer Motion · Capacitor
 Backend    ──▶  Node.js · Express · MongoDB Atlas · MySQL · Python
 Workflow   ──▶  Git · GitHub · Vercel · CachyOS Linux · Fish Shell
+<div align="center">
+  <img src="./assets/crow-footer.svg" alt="Itachi Crow Genjutsu Footer" width="100%" />
+</div>
