@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="100%" height="120">
+  <rect width="900" height="120" rx="16" fill="#09090B" />
+  <rect x="1" y="1" width="898" height="118" rx="15" fill="none" stroke="#27272A" stroke-width="1.2" />
+
+  
+  <text x="450" y="54" text-anchor="middle" fill="#E4E4E7" font-family="monospace" font-size="13">
+    "People live their lives bound by what they accept as correct and true."
+  </text>
+  <text x="450" y="78" text-anchor="middle" fill="#EF4444" font-family="monospace" font-size="11" letter-spacing="2">
+    — ITACHI UCHIHA // AMATERASU106
+  </text>
+
+  
+  <g fill="#EF4444" opacity="0.75">
+    <path d="M0,0 Q8,-8 16,0 Q24,-8 32,0 Q22,-2 16,3 Q10,-2 0,0 Z">
+      <animateMotion path="M -40,95 Q 240,25 520,65 T 940,20" dur="8s" repeatCount="indefinite" />
+    </path>
+    <path d="M0,0 Q7,-7 14,0 Q21,-7 28,0 Q19,-2 14,2.5 Q9,-2 0,0 Z">
+      <animateMotion path="M -60,40 Q 280,90 580,35 T 950,85" begin="1.5s" dur="9.5s" repeatCount="indefinite" />
+    </path>
+    <path d="M0,0 Q6,-6 12,0 Q18,-6 24,0 Q16,-1.5 12,2 Q8,-1.5 0,0 Z">
+      <animateMotion path="M -30,70 Q 320,15 620,80 T 930,45" begin="3s" dur="7.5s" repeatCount="indefinite" />
+    </path>
+  </g>
+</svg>
